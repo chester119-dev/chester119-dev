@@ -81,7 +81,7 @@ Atualmente estudo **Java** e **FullStack** na Grau Técnico, buscando sempre apr
 
 - 📧 Email: **enthonygabriel422@gmail.com**  
 - 🌐 GitHub: [chester119-dev](https://github.com/chester119-dev)  
-- 💬 Número: [Número](+55 87 98110-9362)  
+- 💬 Número: **+55 87 98110-9362**  
 
 ---
 
