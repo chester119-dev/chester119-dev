@@ -1,11 +1,16 @@
-# 👨‍💻 Enthony
+# 👨‍💻 Enthony Gabriel
 
-**`Desenvolvedor`**
+**Desenvolvedor | Apaixonado por Tecnologia**
 
-Me chamo Enthony Gabriel, tenho 12 anos e sou natural da bahia. Atualmente, estou estudando java e FullStack na Grau técnico. Sou apaixonado por tecnologia.
+Olá! Me chamo Enthony Gabriel, tenho 12 anos e sou natural da Bahia.  
+Atualmente estudo **Java** e **FullStack** na Grau Técnico, buscando sempre aprimorar minhas habilidades em desenvolvimento e tecnologia.  
+
+---
+
+### 📈 Conecte-se comigo
 
 <p align="left"> 
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/Larissakich?tab=followers" target="_blank">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
@@ -20,7 +25,7 @@ Me chamo Enthony Gabriel, tenho 12 anos e sou natural da bahia. Atualmente, esto
 
 <img 
     align="left" 
-    alt="HTML"
+    alt="HTML" 
     title="HTML" 
     width="30px" 
     style="padding-right: 10px;" 
@@ -29,34 +34,55 @@ Me chamo Enthony Gabriel, tenho 12 anos e sou natural da bahia. Atualmente, esto
 <img 
     align="left" 
     alt="CSS" 
-    title="CSS"
+    title="CSS" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Lua" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg"/>
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=chester119-dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=chester119-dev&theme=tokyonight&
-      layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+    align="left" 
+    alt="Java" 
+    title="Java" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Lua" 
+    title="Lua" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg"
+/>
 
+<br/>
+<br/>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=chester119-dev&show_icons=true&theme=blue-green" />
 </p>
+
+---
+
+### 🛠️ Linguagens mais usadas
+
+<p align="center">
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chester119-dev&layout=compact&theme=blue-green" />
+</p>
+
+---
+
+### 💡 Contato
+
+- 📧 Email: **enthonygabriel422@gmail.com**  
+- 🌐 GitHub: [chester119-dev](https://github.com/chester119-dev)  
+- 💬 LinkedIn: [Seu LinkedIn](#) *(adicione link real)*  
+
+---
+
+> “Aprender tecnologia é construir o futuro que você quer ver.”
