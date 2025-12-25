@@ -10,7 +10,7 @@ Atualmente estudo **Java** e **FullStack** na Grau Técnico, buscando sempre apr
 ### 📈 Conecte-se comigo
 
 <p align="left"> 
-    <a href="https://github.com/Larissakich?tab=followers" target="_blank">
+    <a href="https://github.com/chester119-dev?tab=followers" target="_blank">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
