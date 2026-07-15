@@ -2,7 +2,7 @@
 
 **Desenvolvedor | Apaixonado por Tecnologia**
 
-Olá! Me chamo Enthony Gabriel, tenho 12 anos e sou natural da Bahia.  
+Olá! Me chamo Enthony Gabriel, tenho 13 anos e sou natural da Bahia.  
 Atualmente estudo **Java** e **FullStack** na Grau Técnico, buscando sempre aprimorar minhas habilidades em desenvolvimento e tecnologia.  
 
 ---
@@ -41,11 +41,19 @@ Atualmente estudo **Java** e **FullStack** na Grau Técnico, buscando sempre apr
 />
 <img 
     align="left" 
-    alt="Java" 
-    title="Java" 
+    alt="Python" 
+    title="Python" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
 />
 <img 
     align="left" 
